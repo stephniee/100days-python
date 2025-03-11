@@ -1,6 +1,3 @@
-# 100days-python
-
-Here's a concise and structured GitHub repository description for your challenge:  
 
 ---  
 
