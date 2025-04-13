@@ -1,4 +1,5 @@
-from turtle import Turtle
+from turtle import Screen, Turtle
+import time
 HORIZONTAL_SPACE = -20
 MOVE_DISTANCE = 20
 
@@ -45,6 +46,12 @@ class Snake:
     
     def get_head(self):
         return self.snake_head
+    
+ 
+ 
+  # or your normal color
+ 
+  
         
     # Movement Methods
     def up(self):
